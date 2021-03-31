@@ -1,0 +1,15 @@
+C:\Users\davit\source\repos\E-Commerce\Novir.JobFinder.Core\obj\Debug\netcoreapp3.1\Novir.Ecommerce.Core.AssemblyInfoInputs.cache
+C:\Users\davit\source\repos\E-Commerce\Novir.JobFinder.Core\obj\Debug\netcoreapp3.1\Novir.Ecommerce.Core.AssemblyInfo.cs
+C:\Users\davit\source\repos\E-Commerce\Novir.JobFinder.Core\obj\Debug\netcoreapp3.1\Novir.Ecommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\davit\source\repos\E-Commerce\Novir.Ecommerce.Core\bin\Debug\netcoreapp3.1\Novir.Ecommerce.Core.deps.json
+C:\Users\davit\source\repos\E-Commerce\Novir.Ecommerce.Core\bin\Debug\netcoreapp3.1\Novir.Ecommerce.Core.dll
+C:\Users\davit\source\repos\E-Commerce\Novir.Ecommerce.Core\bin\Debug\netcoreapp3.1\Novir.Ecommerce.Core.pdb
+C:\Users\davit\source\repos\E-Commerce\Novir.Ecommerce.Core\bin\Debug\netcoreapp3.1\Novir.Ecommerce.Data.dll
+C:\Users\davit\source\repos\E-Commerce\Novir.Ecommerce.Core\bin\Debug\netcoreapp3.1\Novir.Ecommerce.Data.pdb
+C:\Users\davit\source\repos\E-Commerce\Novir.Ecommerce.Core\obj\Debug\netcoreapp3.1\Novir.Ecommerce.Core.csprojAssemblyReference.cache
+C:\Users\davit\source\repos\E-Commerce\Novir.Ecommerce.Core\obj\Debug\netcoreapp3.1\Novir.Ecommerce.Core.AssemblyInfoInputs.cache
+C:\Users\davit\source\repos\E-Commerce\Novir.Ecommerce.Core\obj\Debug\netcoreapp3.1\Novir.Ecommerce.Core.AssemblyInfo.cs
+C:\Users\davit\source\repos\E-Commerce\Novir.Ecommerce.Core\obj\Debug\netcoreapp3.1\Novir.Ecommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\davit\source\repos\E-Commerce\Novir.Ecommerce.Core\obj\Debug\netcoreapp3.1\Novir.Ecommerce.Core.csproj.CopyComplete
+C:\Users\davit\source\repos\E-Commerce\Novir.Ecommerce.Core\obj\Debug\netcoreapp3.1\Novir.Ecommerce.Core.dll
+C:\Users\davit\source\repos\E-Commerce\Novir.Ecommerce.Core\obj\Debug\netcoreapp3.1\Novir.Ecommerce.Core.pdb

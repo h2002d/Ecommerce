@@ -1,0 +1,12 @@
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Core\bin\Debug\netcoreapp3.1\Novir.JobFinder.Data.dll
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Core\obj\Debug\netcoreapp3.1\Novir.JobFinder.Core.csprojAssemblyReference.cache
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Core\obj\Debug\netcoreapp3.1\Novir.JobFinder.Core.AssemblyInfoInputs.cache
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Core\obj\Debug\netcoreapp3.1\Novir.JobFinder.Core.AssemblyInfo.cs
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Core\obj\Debug\netcoreapp3.1\Novir.JobFinder.Core.csproj.CoreCompileInputs.cache
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Core\bin\Debug\netcoreapp3.1\Novir.JobFinder.Core.deps.json
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Core\bin\Debug\netcoreapp3.1\Novir.JobFinder.Core.dll
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Core\bin\Debug\netcoreapp3.1\Novir.JobFinder.Core.pdb
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Core\bin\Debug\netcoreapp3.1\Novir.JobFinder.Data.pdb
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Core\obj\Debug\netcoreapp3.1\Novir.JobFinder.Core.csproj.CopyComplete
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Core\obj\Debug\netcoreapp3.1\Novir.JobFinder.Core.dll
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Core\obj\Debug\netcoreapp3.1\Novir.JobFinder.Core.pdb

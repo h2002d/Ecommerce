@@ -1,0 +1,17 @@
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Data\obj\Debug\netcoreapp3.1\Novir.JobFinder.Data.AssemblyInfoInputs.cache
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Data\obj\Debug\netcoreapp3.1\Novir.JobFinder.Data.AssemblyInfo.cs
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Data\obj\Debug\netcoreapp3.1\Novir.JobFinder.Data.csproj.CoreCompileInputs.cache
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Data\bin\Debug\netcoreapp3.1\Novir.JobFinder.Data.deps.json
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Data\bin\Debug\netcoreapp3.1\Novir.JobFinder.Data.dll
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Data\bin\Debug\netcoreapp3.1\Novir.JobFinder.Data.pdb
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Data\obj\Debug\netcoreapp3.1\Novir.JobFinder.Data.dll
+C:\Users\davit\source\repos\JobFinder\Novir.JobFinder.Data\obj\Debug\netcoreapp3.1\Novir.JobFinder.Data.pdb
+C:\Users\davit\source\repos\Jobfinder2\Novir.JobFinder.Data\bin\Debug\netcoreapp3.1\Novir.JobFinder.Data.deps.json
+C:\Users\davit\source\repos\Jobfinder2\Novir.JobFinder.Data\bin\Debug\netcoreapp3.1\Novir.JobFinder.Data.dll
+C:\Users\davit\source\repos\Jobfinder2\Novir.JobFinder.Data\bin\Debug\netcoreapp3.1\Novir.JobFinder.Data.pdb
+C:\Users\davit\source\repos\Jobfinder2\Novir.JobFinder.Data\obj\Debug\netcoreapp3.1\Novir.JobFinder.Data.csprojAssemblyReference.cache
+C:\Users\davit\source\repos\Jobfinder2\Novir.JobFinder.Data\obj\Debug\netcoreapp3.1\Novir.JobFinder.Data.AssemblyInfoInputs.cache
+C:\Users\davit\source\repos\Jobfinder2\Novir.JobFinder.Data\obj\Debug\netcoreapp3.1\Novir.JobFinder.Data.AssemblyInfo.cs
+C:\Users\davit\source\repos\Jobfinder2\Novir.JobFinder.Data\obj\Debug\netcoreapp3.1\Novir.JobFinder.Data.csproj.CoreCompileInputs.cache
+C:\Users\davit\source\repos\Jobfinder2\Novir.JobFinder.Data\obj\Debug\netcoreapp3.1\Novir.JobFinder.Data.dll
+C:\Users\davit\source\repos\Jobfinder2\Novir.JobFinder.Data\obj\Debug\netcoreapp3.1\Novir.JobFinder.Data.pdb
